@@ -1,0 +1,13 @@
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.exe
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.deps.json
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.runtimeconfig.json
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.runtimeconfig.dev.json
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.dll
+C:\Users\Amira\source\repos\matrix2\matrix2\bin\Debug\netcoreapp3.1\matrix2.pdb
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.csproj.AssemblyReference.cache
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.AssemblyInfoInputs.cache
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.AssemblyInfo.cs
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.csproj.CoreCompileInputs.cache
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.dll
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.pdb
+C:\Users\Amira\source\repos\matrix2\matrix2\obj\Debug\netcoreapp3.1\matrix2.genruntimeconfig.cache
